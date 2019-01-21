@@ -21,6 +21,4 @@ Report a github issue and don't forget to attach a logcat.
 
 
 ## Credit
-- OmniSwitch
-- Google
-- Existance
+- Main app: inabhi9
