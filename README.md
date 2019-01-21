@@ -37,4 +37,4 @@ Report a github issue and don't forget to attach a logcat.
 
 
 ## Credit
-- Main app: inabhi9
+- Original app: inabhi9
