@@ -11,6 +11,11 @@ An Android app to mimic the stock ZUI swipe left/right (navigate in app history)
 Report the github issue and don't forget to attach logcat.
 
 ## Changelog
+* v2.0
+  * fix for pie
+  * new animation
+  * loop option
+  * icon
 * v0.1
   * Initial release
 
