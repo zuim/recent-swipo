@@ -246,8 +246,8 @@ public class AppLogService extends Service {
         // Animation options
         ArrayList<Integer> anim = new ArrayList<>();
         if (Objects.equals(animDirection, "right")) {
-            anim.add(android.R.anim.slide_in_left);
-            anim.add(android.R.anim.slide_out_right);
+            anim.add(R.anim.slide_in_left);
+            anim.add(R.anim.slide_out_right);
         } else {
             anim.add(R.anim.slide_in_right);
             anim.add(R.anim.slide_out_left);
